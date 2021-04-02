@@ -1,5 +1,6 @@
 {
   "name": "hatch-cam",
+  "homepage": "https://Deanomatic.github.io/hatch-cam/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
