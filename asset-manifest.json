@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/hatch-cam/static/css/main.6ac1952a.chunk.css",
-    "main.js": "/hatch-cam/static/js/main.7d4f23a2.chunk.js",
-    "main.js.map": "/hatch-cam/static/js/main.7d4f23a2.chunk.js.map",
+    "main.css": "/hatch-cam/static/css/main.217ddf76.chunk.css",
+    "main.js": "/hatch-cam/static/js/main.2a2e8fca.chunk.js",
+    "main.js.map": "/hatch-cam/static/js/main.2a2e8fca.chunk.js.map",
     "runtime-main.js": "/hatch-cam/static/js/runtime-main.e31a8815.js",
     "runtime-main.js.map": "/hatch-cam/static/js/runtime-main.e31a8815.js.map",
     "static/js/2.e3f517ed.chunk.js": "/hatch-cam/static/js/2.e3f517ed.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.54035c6f.chunk.js": "/hatch-cam/static/js/3.54035c6f.chunk.js",
     "static/js/3.54035c6f.chunk.js.map": "/hatch-cam/static/js/3.54035c6f.chunk.js.map",
     "index.html": "/hatch-cam/index.html",
-    "static/css/main.6ac1952a.chunk.css.map": "/hatch-cam/static/css/main.6ac1952a.chunk.css.map",
+    "static/css/main.217ddf76.chunk.css.map": "/hatch-cam/static/css/main.217ddf76.chunk.css.map",
     "static/js/2.e3f517ed.chunk.js.LICENSE.txt": "/hatch-cam/static/js/2.e3f517ed.chunk.js.LICENSE.txt",
     "static/media/App.css": "/hatch-cam/static/media/large-farm.0c49eb30.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.e31a8815.js",
     "static/js/2.e3f517ed.chunk.js",
-    "static/css/main.6ac1952a.chunk.css",
-    "static/js/main.7d4f23a2.chunk.js"
+    "static/css/main.217ddf76.chunk.css",
+    "static/js/main.2a2e8fca.chunk.js"
   ]
 }
